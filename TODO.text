@@ -1,0 +1,11 @@
+1.User Registration
+2.User login
+3.User auth by JWT tokenw
+4.User profile read
+5.User profile update
+6.User to-do list create
+7.User to-do list read
+8.User to-do list update
+9.User to-do list delete
+10.User to-do list complete/cancel mark
+
